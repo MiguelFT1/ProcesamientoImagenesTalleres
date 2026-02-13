@@ -1,0 +1,5 @@
+build/
+.DS_Store
+TallerColor_Proyecto
+*.o
+*.out
