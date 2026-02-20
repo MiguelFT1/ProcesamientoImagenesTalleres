@@ -1,0 +1,4 @@
+/Users/miguelflechas/Desktop/procesamiento de imagenes/talleres/taller 3/build/CMakeFiles/parte_a.dir
+/Users/miguelflechas/Desktop/procesamiento de imagenes/talleres/taller 3/build/CMakeFiles/parte_b.dir
+/Users/miguelflechas/Desktop/procesamiento de imagenes/talleres/taller 3/build/CMakeFiles/edit_cache.dir
+/Users/miguelflechas/Desktop/procesamiento de imagenes/talleres/taller 3/build/CMakeFiles/rebuild_cache.dir
